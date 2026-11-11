@@ -10,8 +10,8 @@ longitudinal statistics and all the figures reported in the paper. Effects are
 reported in **SD/year** (regional volumes residualized in the cognitively-normal
 reference sample and z-scored).
 
-The **upstream** half — MRI preprocessing, DL+DiReCt parcellation, volumetric
-extraction and ComBat harmonization (across scanner manufacturer) — lives in a
+The **upstream** half : MRI preprocessing, DL+DiReCt parcellation, volumetric
+extraction and ComBat harmonization (across scanner manufacturer), lives in a
 separate repository:
 <https://github.com/Mappo23/mri-preprocess-inference-pipeline>
 
